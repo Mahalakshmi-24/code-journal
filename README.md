@@ -9,6 +9,17 @@
      Journaling is a tool, and a Code Journal is a tool for anyone who
      uses technology (not just specifically code), be it in their job or
      as a hobby (developers, software architects, QA/testers, etc).
+
 ## The benefits of keeping a Code Journal
     
-    
+     * Get everything out of your head
+
+      * Track your growth
+
+      * Track your goals and progress
+
+      * Save time
+
+      * Manage multiple projects more easily
+
+      * Develop a coding or working philosophy
